@@ -1,2 +1,2 @@
 # CMP_BMOS1004
-Class B Amplifier
+Mosfet Complementary Class B Power Amplifier 
